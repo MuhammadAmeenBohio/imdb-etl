@@ -1,0 +1,7 @@
+pandas
+prefect
+supabase
+python-dotenv
+requests
+psycopg2-binary
+sqlalchemy
